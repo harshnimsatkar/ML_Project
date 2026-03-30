@@ -197,7 +197,7 @@ artifacts/
 
 ## 👨‍💻 Author
 
-**Harsh Trivedi**
+**Harsh Nimsatkar**
 
 ---
 
